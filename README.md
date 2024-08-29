@@ -11,7 +11,3 @@ This project aims to compare the performance of different deep learning models i
 - `scripts/`: Python scripts for data preprocessing, model training, and evaluation.
 - `requirements.txt`: Python package dependencies.
 
-## Setup
-1. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
